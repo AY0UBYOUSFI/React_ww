@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Display2 from "./Display2";
 import "./ActorsStyle.css";
-import memberInfo from "./memeberInfo"; // ✅
+import memberInfo from "./memeberInfo"; 
 
 
 class ListActors extends Component {
